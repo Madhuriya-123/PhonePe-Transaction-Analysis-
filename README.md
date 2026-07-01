@@ -74,7 +74,7 @@ The PhonePe Transaction Analysis Dashboard provides a comprehensive view of tran
 
 ## 📸 Dashboard Preview
 
-![PhonePe Dashboard](<img width="1327" height="741" alt="Screenshot 2026-07-02 022445" src="https://github.com/user-attachments/assets/27555adc-8e22-43ce-962c-5e8a7b16ca48" />
+(<img width="1327" height="741" alt="Screenshot 2026-07-02 022445" src="https://github.com/user-attachments/assets/27555adc-8e22-43ce-962c-5e8a7b16ca48" />
 
 )
 
